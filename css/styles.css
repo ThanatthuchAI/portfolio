@@ -1,0 +1,37 @@
+.profile-pic {
+    width: 15rem;
+    height: 15rem;
+    background-size: cover;
+    display: block;
+    border-radius: 125px;
+    -webkit-border-radius: 125px;
+    -moz-border-radius: 125px;
+    margin: auto;
+    padding: 1rem;
+   }
+
+h1,h2 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+    color: white;
+}
+
+
+nav {
+    background-color: #1C1A19;
+}
+
+a {
+    color: white;
+}
+
+
+
+img {
+    flex:25%
+}
+
+#row1 {
+    margin-top: 5rem;
+}
